@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Computer Science [Software engineering]
 
-- 🌱 I'm always willing to gorw and learn new fundemental skills within this field of work.
+- 🌱 I'm always willing to grow and learn new fundemental skills within this field of work.
 
 - 🎓 I'm currently going through SNHU for bachelor's  in Computer Science [Software engineering]
 
